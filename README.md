@@ -1,2 +1,2 @@
 # funsify
-List ordering game that can be played by many players in rral time on separate devices. 
+List ordering game that can be played by many players in real time on separate devices. 
